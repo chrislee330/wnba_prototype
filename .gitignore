@@ -1,0 +1,4 @@
+sim_results
+.git
+.venv
+__pycache__
